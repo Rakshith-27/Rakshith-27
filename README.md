@@ -38,8 +38,10 @@
 <p align="center">
   <a href="https://linkedin.com/in/rakshith-vr" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    <a href="mailto:rakshi94820@gmail.com" target="_blank">
+    <a href="gmailto:rakshi94820@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://www.instagram.com___rxxshiii._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a
+
   </a>
   </a>
 </p>
@@ -91,10 +93,11 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshith-27&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages">
-</p>
+<h3 align="left">📊 GitHub Stats:</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rakshith-27&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=6&hide=Jupyter%20Notebook" alt="Top Languages">
+</div>
+
 
 ---
 
