@@ -38,15 +38,14 @@
 <p align="center">
   <a href="https://linkedin.com/in/rakshith-vr" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    <a href="gmailto:rakshi94820@gmail.com" target="_blank">
+  </a>
+  <a href="mailto:rakshi94820@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  <a href="https://www.instagram.com___rxxshiii._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a
-
-  </a>
+  </a>
+  <a href="https://www.instagram.com/___rxxshiii._/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
-
----
 
 ### 🛠️ Languages and Tools
 <p align="center">
