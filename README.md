@@ -14,11 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=rakshith-27&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rakshith-27&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies">
-  </a>
-</p>
+
 
 ---
 
