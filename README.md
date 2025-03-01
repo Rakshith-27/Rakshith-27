@@ -24,7 +24,7 @@
 - 👯 **Looking to Collaborate On:** Shopify Projects  
 - 🤝 **Need Help With:** Shopify Integrations  
 - 💬 **Ask Me About:** HTML, CSS, JavaScript, PHP  
-- 👨‍💻 **Portfolio & Projects:** https://check-out-portfolio.netlify.app/  
+- 👨‍💻 **Portfolio & Projects:** https://rakshii-portfolio.netlify.app/
 - 📫 **How to Reach Me:** rakshi94820@gmail.com  
 - ⚡ **Fun Fact:** I think I’m funny (but my debugger doesn’t always agree! 😄)
 
